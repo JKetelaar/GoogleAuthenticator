@@ -1,4 +1,5 @@
 <?php
+
 /*This example will check if the information, filled in by the user, is correct*/
 require_once 'lib/authenticator/auth.php';
 
