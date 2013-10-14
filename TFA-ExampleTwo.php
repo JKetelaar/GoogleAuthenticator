@@ -4,4 +4,4 @@ require_once 'lib/authenticator/auth.php';
 
 $Login = new Login;
 $Login->TFAGenerate();
-
+?>
