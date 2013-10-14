@@ -136,3 +136,4 @@ class GoogleAuthenticator
 }
 
 /* Thanks to PHPGangsta */
+?>

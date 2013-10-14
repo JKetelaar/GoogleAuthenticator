@@ -6,4 +6,4 @@ $code = "Generated Code Here";
 $key = "Code From Google Authenticator Here";
 $Login = new Login;
 $Login->TFACheck($code, $key);
-
+?>
